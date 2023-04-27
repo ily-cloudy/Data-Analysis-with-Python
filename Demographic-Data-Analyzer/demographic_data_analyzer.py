@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# numbers are arbitrarily rounded to one decimal place to pass testing; even when it does not comply with best practice. 
+# numbers are arbitrarily rounded to one decimal place to pass testing; even when it does not comply with best practice. Additionally, some solutions are very bodged because i got bored. 
 
 def calculate_demographic_data(print_data=True):
     # Read data from file
